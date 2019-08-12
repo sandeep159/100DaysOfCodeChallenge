@@ -65,5 +65,12 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day010.md)
 
+11)Day011-
+1. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.]
+
+2. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs"]
+
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day011.md)
+
 
 
