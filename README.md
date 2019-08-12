@@ -80,6 +80,10 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 2. [JugsMugsPugs advanced]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day013.md)
 
+14)Day014-
+1. [JugsMugsPugs with reverse]
+2. [JugsMugsPugs with reverse range]
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day014.md)
 
 
 
