@@ -28,7 +28,11 @@ What is the JavaScript code you got? Cut and paste and assign it to the variable
 Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 
 5)Day005-
-[Write a program that reads an integer number and prints its previous and next numbers. See the example below.]
+[N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?The program reads the numbers N and K]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day005.md)
+
+6)Day006-
+[Write a program that reads an integer number and prints its previous and next numbers. See the example below.]
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day006.md)
 
 
