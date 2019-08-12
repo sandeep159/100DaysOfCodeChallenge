@@ -16,12 +16,15 @@ Cut and paste and assign it to the variable level_10_code.How many blocks did yo
 Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 
 4)Day004-
+
 1)[If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got? Cut and paste and assign it to the variable level_10_code.How many blocks did you have left? Assign it to the variable remaining_blocks.]
 
 2)[If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got? Cut and paste and assign it to the variable level_10_code.How many blocks did you have left? Assign it to the variable remaining_blocks.]
+
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day004.md)
+
 Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 
 
