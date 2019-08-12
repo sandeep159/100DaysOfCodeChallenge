@@ -27,4 +27,8 @@ What is the JavaScript code you got? Cut and paste and assign it to the variable
 
 Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 
+5)Day005-
+[Write a program that reads an integer number and prints its previous and next numbers. See the example below.]
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day005.md)
+
 
