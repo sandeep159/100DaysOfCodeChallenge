@@ -56,3 +56,14 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 [Given an integer, print "odd" if it's odd and print "even" otherwise.]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day009.md)
 
+10)Day010-
+1. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.]
+
+2. [Given three integers, print the least of them.]
+
+3. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.]
+
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day010.md)
+
+
+
