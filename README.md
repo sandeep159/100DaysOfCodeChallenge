@@ -89,6 +89,9 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 . [digit in number]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day015.md)
 
+16)Day016-
+. [JugsMugsPugs with special requirement]
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day016.md)
 
 
 
