@@ -8,3 +8,9 @@
 2)Day002-
 [Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/edit/master/Day002.md)
+
+3)Day003-
+[After you complete the 10th level, what is the JavaScript code you got? 
+Cut and paste and assign it to the variable level_10_code.How many blocks did you have left? Assign it to the variable remaining_blocks.]
+()
+Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
