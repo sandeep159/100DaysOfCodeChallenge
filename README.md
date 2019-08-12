@@ -51,3 +51,8 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 2. [Given a three-digit number. Find the sum of its digits.]
 
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day008.md)
+
+9)Day009-
+[Given an integer, print "odd" if it's odd and print "even" otherwise.]
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day009.md)
+
