@@ -39,4 +39,8 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 [Write a program that reads an integer number and prints its previous and next numbers. See the example below.]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day006.md)
 
+7)Day007-
+1. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?]
+2. [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.]
 
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day007.md)
