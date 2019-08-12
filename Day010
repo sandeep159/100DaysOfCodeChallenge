@@ -1,0 +1,97 @@
+## 1)Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.
+
+```
+Example input #1
+1
+(January)
+
+Example output #1
+31
+```
+# CODE
+
+#Read an integer:
+
+a = int(input())
+
+#Print a value:
+
+if a==2:
+  
+  print(28)
+
+elif a<=7 and a%2 != 0:
+  
+  print(31) 
+
+elif a<=7 and a%2 == 0:
+  
+  print(30)
+
+elif a>7 and a%2 == 0:
+  
+  print(31)
+
+elif a>7 and a%2 !=0:
+  
+  print(30)
+  
+  ## 2)Given three integers, print the least of them.
+  ```
+  Example input
+5
+3
+7
+
+Example output
+3
+  ```
+  # CODE
+  
+  #Read an integer:
+
+a = int(input())
+
+b = int(input())
+
+c = int(input())
+
+#Print a value:
+
+if a<=b and a<=c:
+  
+  print(a)
+
+elif b<=a and b<=c:
+  
+  print(b)
+
+else:
+  
+  print(c)
+  
+  ## 3)Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.
+  ```
+  Example input
+2012
+
+Example output
+LEAP
+
+  ```
+  # CODE
+  
+  #Read an integer:
+
+a = int(input())
+
+#Print a value:
+
+if a%400 == 0 or a%4== 0 and a%100 !=0 :
+  
+  print("LEAP")
+
+else:
+  
+  print("COMMON")
+  
