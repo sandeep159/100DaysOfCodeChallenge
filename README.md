@@ -93,8 +93,11 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 . [JugsMugsPugs with special requirement]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day016.md)
 
-
-
+17)Day017-
+1. [sum of n number]
+2. [result in the given mathematical model]
+3. [factorial problem in the given manner]
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day017.md)
 
 
 
