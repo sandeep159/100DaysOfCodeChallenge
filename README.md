@@ -99,6 +99,14 @@ Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
 3. [factorial problem in the given manner]
 (https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day017.md)
 
+18)Day018-
+1. [for ladder]
+2. [for lost card]
+3. [the missing spy plane]
+
+(https://github.com/sandeep159/100DaysOfCodeChallenge/blob/master/Day018.md)
+
+
 
 
 
